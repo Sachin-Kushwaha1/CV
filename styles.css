@@ -19,7 +19,7 @@ body {
 header {
   margin-left: 25px;
   flex-direction:column;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .social-details {
