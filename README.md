@@ -4,8 +4,6 @@
 
 This is the source code for my personal portfolio website, showcasing my skills, projects, and achievements. The portfolio provides an overview of my experience in web development, academic achievements, and extracurricular activities.
 
-![Portfolio Screenshot](screenshot.png) <!-- Add a screenshot of your portfolio -->
-
 ## Features
 
 - **Theme Toggle**: Switch between light and dark themes.
