@@ -91,6 +91,7 @@ header .profile-pic {
 
 .social-details a i {
   margin-right: 5px; /* Space between icon and text */
+  color: #000;
 }
 
 section {
